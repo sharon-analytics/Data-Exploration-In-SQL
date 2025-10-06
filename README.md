@@ -9,4 +9,4 @@ This project explores global layoffs data to uncover key insights into company t
 - Visualization-ready datasets for deeper insights  
 
 ## 🗂️ SQL Script
-[View SQL Script](./EDA_layoffs.sql)
+[View SQL Script](https://github.com/sharon-analytics/Data-Exploration-In-SQL/blob/main/EDA%20layoffs.sql)
